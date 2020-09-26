@@ -1,0 +1,73 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "nome": "Ada Lovelace",
+      "descricao":"Diva da programação, já descrevia as operações lógicas de uma máquina mais de um século antes de existir o computador como entendemos hoje. Filha do romântico Lord Byron e confinada a uma sociedade que impedia que mulheres estudassem em universidades, Ada apaixonou-se pela matemática -- e era brilhante. Trocou intensamente cartas com Charles Babbage, idealizador da Máquina Analítica, e publicou artigos (assinados somente com suas iniciais) que expandiam as fronteiras do processamento de informação.",
+      "leiaMais":"https://www.programaria.org/como-ada-lovelace-filha-de-lord-byron-se-tornou-primeira-programadora-mundo/"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "nome": "EDITH CLARKE",
+        "descricao":"Nascida numa comunidade rural de Maryland (EUA), Edith Clarke formou-se em matemática e astronomia em 1908 e depois estudou Engenharia Civil. Interrompeu os estudos para trabalhar como computador humano, mas sua paixão falou mais alto: em 1919 tornou-se a primeira mulher a conquistar um Mestrado no Departamento de Engenharia Elétrica e Ciência da Computação do MIT, tornando-se a primeira engenheira elétrica do país. Dois anos depois registrou sua primeira patente: uma calculadora gráfica, que melhorava os métodos para solucionar problemas de transmissão de energia elétrica. Quando se aposentou, em 1956, era professora da Universidade do Texas, onde foi a primeira mulher a ensinar engenharia. Em 2015 passou a integrar o National Inventors Hall of Fame.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Edith_Clarke"
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "nome": "GRACE HOPPER",
+        "descricao":"Foi uma cientista da computação norte americana e Contra-almirante da Marinha dos Estados Unidos. Uma das primeiras programadoras do computador Harvard Mark I em 1944, inventou o primeiro compilador para uma linguagem de programação (que transforma um código de programação em código binário) e foi uma das pessoas que popularizou a ideia de linguagem de programação independente de máquina que levou ao desenvolvimento de COBOL, uma das primeiras linguagens de programação a se aproximar da linguagem humana.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Grace_Hopper"
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "nome": "DOROTHY JOHNSON VAUGHAN",
+        "descricao":"Nascida no estado do Missouri, Dorothy Vaughan formou-se em Matemática e ingressou na NACA, agência que viria a se tornar a NASA, em 1943. Especializou-se em computação e seis anos depois chefiou um grupo composto somente por mulheres afro-americanas formadas em matemática. Dominava computação eletrônica, programação e o processo operacional da primeira máquina IBM usada pelo órgao governamental. Aposentou-se em 1971. Sua história é contada no filme 'Estrelas Além do Tempo",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Dorothy_Vaughan"
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "nome": "MARY KENNETH KELLER",
+        "descricao":"Natural de Cleveland, Ohio, Mary Keller foi a primeira mulher a ter um doutorado em ciência da computação nos Estados Unidos, em 1965. Graduou-se em matemática e fez mestrado em matemática e física nos anos 40. Seu doutorado pela Universidade de Wisconsin abordou a construção de algoritmos que faziam diferenciação analítica na expressão algébrica, escrito em CDC FORTRAN 63. Na época de sua graduação, a Universidade de Dartmouth só permitia homens, mas quebrou a regra para que ela pudesse trabalhar no centro de computação. Mais tarde, fundou o Departamento de Ciência da Computação na Clarke College, no estado de Iowa, onde lecionou por 20 anos.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Mary_Kenneth_Keller"
+      },
+      {
+        "userId": 1,
+        "id":6,
+        "nome": "HEDY LAMARR",
+        "descricao":"Foi uma atriz e inventora austríaca radicada nos Estados Unidos. A sua mais significativa contribuição tecnológica deu-se durante a Segunda Guerra Mundial, tendo sido a sua co-invenção, juntamente com o compositor George Antheil, de um sistema de comunicações para as Forças Armadas dos Estados Unidos que serviu de base para a atual telefonia celular.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Hedy_Lamarr"
+      },
+      {
+        "userId": 1,
+        "id": 7,
+        "nome": "JOAN CLARKE",
+        "descricao":"Foi uma criptoanalista e numismata inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. Também foi amiga, confidente e ex-noiva de Alan Turing.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Joan_Clarke"
+      },
+      {
+        "userId": 1,
+        "id": 8,
+        "nome": "KATHERINE COLEMAN GOBLE JOHNSON",
+        "descricao":"Cientista formada em física e matemática, Katherine Johnson fez história na corrida espacial americana: calculou a trajetória para o Projeto Mercúrio (primeiro projeto tripulado da NASA) e para o voo da Apollo 11 (que levou o homem à Lua). Afro-americana, veio de família humilde e demonstrou desde cedo sua aptidão e precisão para os cálculos. Contribuiu imensamente para a agência em uma época em que os EUA ainda institucionalizavam a segregação racial. Recebeu a Medalha Presidencial da Liberdade em 2015, maior honra que o governo dos EUA concede a civis. Sua história é contada no filme ‘Estrelas Além do Tempo’.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Katherine_Johnson"
+      },
+      {
+        "userId": 1,
+        "id": 9,
+        "nome": "MARY WINSTON JACKSON",
+        "descricao":"Mary Winston Jackson nasceu nos EUA e formou-se no Hampton Institute em 1942, onde estudou matemática e física. Foi autora e co-autora de diversos relatórios de pesquisa e destacou-se na NASA, onde começou a trabalhar em 1951. Para poder continuar seus experimentos na Insitituição, teve que cursar enegenharia, sendo a primeira mulher negra engenheira da Nasa. Pesquisou principalmente a camada limite de ar em torno de aviões e fez experimentos com túneis de vento. Sua história é contada no filme 'Estrelas Além do Tempo'",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Mary_Jackson"
+      },
+      {
+        "userId": 1,
+        "id": 10,
+        "nome": "KAREN SPÄRCK",
+        "descricao":"Karen Spärck Jones criou o conceito de Frequência Inversa do Documento (IDF na sigla em inglês). O IDF é usado na maioria dos mecanismos de busca atuais, geralmente utilizando a frequência tf-idf, e foi introduzido em artigo de 1972. Karen nasceu na Inglaterra e lecionou no Laboratório de Computação de Cambridge de 1974 a 2002, quando se aposentou, mas continuou trabalhando lá até pouco antes de sua morte, em 2007. Em sua vida, recebeu diversos prêmios e reconhecimentos por suas contribuições, como o ACL Lifetime Achievement Award, em 2004. Também foi vice-presidente da Academia Britânica.",
+        "leiaMais":"https://pt.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones"
+      }
+    
+]
